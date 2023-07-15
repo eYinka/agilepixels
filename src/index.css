@@ -6,5 +6,5 @@
 
 .nav-link {
   @apply font-anton text-white text-opacity-70 hover:text-opacity-100 tracking-wide text-2xl pt-10 md:pt-0 md:text-6xl md:leading-snug xl:text-[6.875rem] xl:leading-[1.1] uppercase inline-block;
-  writing-mode: vertical-lr;
+  writing-mode: vertical-rl;
 }
